@@ -1,7 +1,8 @@
-package com.aitumik.alarm
+package com.aitumik.alarm.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.aitumik.alarm.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
